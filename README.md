@@ -9,24 +9,24 @@ A list of Sketch plugins (and [others things](#everything-else)) I find useful.
 ### Formatting
 | Plugin | Description |
 | --- | --- |
-| Automate Sketch | |
-| Copy & Paste Guides | |
-| Rename-It | |
-| Sketch Palettes | |
-| Symbol Instance Renamer | |
-| Symbol Organizer | 
+| [Copy & Paste Guides](http://www.copypasteguides.com) | Keep your guides consistent across all artboards, even when things change |
+| [Rename-It](https://rodi01.github.io/RenameIt/) | Bulk layer and artboard renamer with keyword options |
+| [Symbol Instance Renamer](https://github.com/sonburn/symbol-instance-renamer) | Keep symbol instance names up to date, everywhere |
+| [Symbol Organizer](https://github.com/sonburn/symbol-organizer) | Clean up and organise your symbols | 
+| [Automate Sketch](https://github.com/Ashung/Automate-Sketch/) | Basically all the power-user features in one menu |
+| [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) | Outdated now that Sketch supports colour libraries natively, but good if you don't use libraries |
 
 ### Data
 | Plugin | Description |
 | --- | --- |
-| Content Generator | |
-| Kickstarter | |
-| Unsplash | |
+| [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin) | Somewhat outdated by the Sketch Data feature, but still useful for names, images, locations, etc |
+| [Kickstarter](https://github.com/kickstarter/kickstarter-sketchplugin) | Our own data plugin for Kickstarter projects, built with [@walterbm](https://github.com/walterbm) |
+| [Unsplash](https://github.com/BohemianCoding/unsplash-sketchplugin) | Solid photography data plugin |
 
 ### Developing
 | Plugin | Description |
 | --- | --- |
-| sketch-dev-tools | |
+| [Sketch DevTools](https://github.com/skpm/sketch-dev-tools) | See your plugin logs and inspect the state of Sketch documents |
 
 ---
 
